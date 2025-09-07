@@ -26,6 +26,12 @@
 
 - GopherCon Korea 2023 준비위원회 준비위원 모집 및 선발
 - GopherCon Korea 2023 미디어팀 리드 / 실황중계를 위한 중계업체 섭외, 장비 대여(카메라, 조명) 등 
+- GopherCon Korea 2023 CoC팀 / 행사에 참여하시는 모든 분들의 안전을 위해 행동강령을 만들어서 참여자들의 안전을 보장 받을 수 있도록 행동강령 검토, 작성
+
+### Organizer @GDG Golang Korea
+
+- Go to Everywhere(전국 방방GoGo) 행사 기획
+- 행사 미디어 담당 / 행사 전반적인 콘텐츠 제작
 
 ## CTF Awards
 
