@@ -13,12 +13,19 @@
  
 - 정보보호 특기 / 사이버관제 직책 (직책 임무수행 2024.05 ~ 2025.09)
 - 육군 내 · 외부 침해대응사고 대응(사이버작전사령부 보고)
+- **Skill.** SIEM, SOAR
 
 ### Software Enginner @TeamGRIT, Inc. (2021.08 ~ 2023.08)
 
-- Go언어 기반 미디어스토리지 개발(Golang, FFmpeg, AWS EC2 · S3 · CloudFront)
+- Go언어 기반 미디어스토리지 개발
+- **Skill.** Golang, FFmpeg, AWS EC2 · S3 · CloudFront
 
 ## Community Contributions
+
+### Organizer @GopherCon Korea 2023
+
+- GopherCon Korea 2023 준비위원회 준비위원 모집 및 선발
+- GopherCon Korea 2023 미디어팀 리드 / 실황중계를 위한 중계업체 섭외, 장비 대여(카메라, 조명) 등 
 
 ## CTF Awards
 
