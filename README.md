@@ -2,7 +2,7 @@
 
 - [Blog](https://hyunsang.dev)
 - [Linkedin](https://www.linkedin.com/in/parkhyunsang)
-- E-mail - `me@hyunsang.dev` · `park.hyunsang@sch.ac.kr`
+- Email - `me@hyunsang.dev` · `park.hyunsang@sch.ac.kr`
 
 ## Education
 
