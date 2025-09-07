@@ -19,12 +19,13 @@
 
 - 정보보호(175.101) 전문 특기 / 사이버관제 직책 (직책 임무수행 2024.05 ~ 2025.09)
 - 육군 내 · 외부 침해대응사고 초동 대응(사이버작전사령부 보고)
-- **Skill.** SIEM, SOAR
+- **상시 작전부대임으로, 직책 임무수행에 관한 자세한 사항은 군사보안 사항임.**
+- **Skill -** SIEM · SOAR · TMS · UTM · IPS
 
 ### Software Enginner @TeamGRIT, Inc. (2021.08 ~ 2023.08)
 
 - Go언어 기반 미디어스토리지 개발
-- **Skill.** Golang, FFmpeg, AWS EC2 · S3 · CloudFront
+- **Skill -** Golang, FFmpeg, AWS EC2 · S3 · CloudFront
 
 ## Community Contributions
 
